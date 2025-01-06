@@ -17,11 +17,6 @@ Docker Compose
 Steps to Get Started
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/Prajwal-ak-0/spark-cluster-docker.git
-cd spark-cluster-docker
-Build the Docker images:
 
 bash
 Copy code
